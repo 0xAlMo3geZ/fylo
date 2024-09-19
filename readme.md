@@ -1,6 +1,6 @@
-# Fylo Website
+# Fylo
 
-Fylo landing page with dark/light mode switcher for tailwindcss practice.
+a landing page for a file hosting website using Tailwind CSS.
 
 [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw)
 
